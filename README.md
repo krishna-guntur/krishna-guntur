@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub Profile
 
-<!--
-**krishna-guntur/krishna-guntur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer with experience in:
 
-Here are some ideas to get you started:
+- 🔧 Production Support and Application Maintenance  
+- 💻 Java, Python, and SQL  
+- ☁️ Salesforce (Admin Certified)  
+- 🛠️ Tools like Maven, Git, Jupyter 
+- 📊 Data Analysis with Pandas, NumPy, and Matplotlib  
+- 📚 Currently pursuing M.Tech in Artificial Intelligence & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Let's connect on LinkedIn - [@krishnaguntur](https://www.linkedin.com/in/gvns-krishna-prasad-001818158/)
+
+---
+
+## 🛠️ Tech Stack
+
+```yaml
+Languages: Python, Java, SQL, Apex, JavaScript
+Frameworks: LWC
+Cloud/CRM Certs: Salesforce, AWS, Azure Fundamentals
+Tools: Git, Maven, Jupyter, SOAP UI
+Databases: Oracle, MySQL
