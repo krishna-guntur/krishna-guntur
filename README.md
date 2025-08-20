@@ -1,7 +1,8 @@
 👋 Hey, I’m Krishna
 
 Welcome to my GitHub! 🚀
-I’m a Application Developer currently working IBM with 5 years of IT experience. I’m passionate about Data, AI, and Problem-Solving, and I’m now on a mission to transition into AI/ML and advanced data engineering.
+
+I’m an Application Developer currently working IBM with 5 years of IT experience. I’m passionate about Data, AI, and Problem-Solving, and I’m now on a mission to transition into AI/ML and advanced data engineering.
 
 Currently, I’m pursuing my M.Tech in Artificial Intelligence & Machine Learning at BITS Pilani 🧑‍🎓, while continuously upskilling in Python, Data Science, and Machine Learning.
 
