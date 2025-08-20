@@ -17,38 +17,38 @@ Currently, I’m pursuing my M.Tech in Artificial Intelligence & Machine Learnin
 
 🛠️ Skills & Tools
 
-Programming → Python, Java, SQL, JavaScript with LWC, Apex
+    Programming → Python, Java, SQL, JavaScript with LWC, Apex
 
-Data Analysis & ML → NumPy, Pandas, Matplotlib, Seaborn (learning scikit-learn next)
+    Data Analysis & ML → NumPy, Pandas, Matplotlib, Seaborn (learning scikit-learn next)
 
-Cloud Platforms → AWS ☁️, Azure ☁️, GCP ☁️
+    Cloud Platforms → AWS ☁️, Azure ☁️, GCP ☁️
 
-Databases → Oracle, MySQL
+    Databases → Oracle, MySQL
 
-Other → Salesforce
+    Other → Salesforce
 
 🚀 Goals for 2025
 
-✅ Build a strong Python data stack foundation
+    ✅ Build a strong Python data stack foundation
 
-✅ Work on hands-on ML projects (EDA, prediction models, anomaly detection, etc.)
+    ✅ Work on hands-on ML projects (EDA, prediction models, anomaly detection, etc.)
 
-🎓 Complete M.Tech (AI & ML) coursework with projects
+    🎓 Complete M.Tech (AI & ML) coursework with projects
 
-🏆 Transition into a Data/AI/ML role 
+    🏆 Transition into a Data/AI/ML role 
 
-📖 Maintain a living knowledge repo here on GitHub documenting my learning journey
+    📖 Maintain a living knowledge repo here on GitHub documenting my learning journey
 
 
 
 📌 What’s Next
 
-Build ML models with scikit-learn
+    Build ML models with scikit-learn
 
-Work on end-to-end EDA + ML projects
+    Work on end-to-end EDA + ML projects
 
-Explore Deep Learning (PyTorch/TensorFlow) as part of M.Tech journey
+    Explore Deep Learning (PyTorch/TensorFlow) as part of M.Tech journey
 
-Share projects, code, and insights here on GitHub
+    Share projects, code, and insights here on GitHub
 
-✨ This page is not just a repo, it’s my growth log. Stick around — more exciting things are coming as I learn, build, and share my journey into Data & AI!
+    ✨ This page is not just a repo, it’s my growth log. Stick around — more exciting things are coming as I learn, build, and share my journey into Data & AI!
