@@ -51,4 +51,4 @@ Currently, I’m pursuing my M.Tech in Artificial Intelligence & Machine Learnin
 
     Share projects, code, and insights here on GitHub
 
-    ✨ This page is not just a repo, it’s my growth log. Stick around — more exciting things are coming as I learn, build, and share my journey into Data & AI!
+✨ This page is not just a repo, it’s my growth log. Stick around — more exciting things are coming as I learn, build, and share my journey into Data & AI!
