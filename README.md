@@ -1,46 +1,54 @@
-# 👋 Welcome to My GitHub Profile
+👋 Hey, I’m Krishna
 
-I'm a Software Engineer with experience in:
+Welcome to my GitHub! 🚀
+I’m a Application Developer currently working IBM with 5 years of IT experience. I’m passionate about Data, AI, and Problem-Solving, and I’m now on a mission to transition into AI/ML and advanced data engineering.
 
-- 🔧 Production Support and Application Maintenance  
-- 💻 Java, Python, and SQL  
-- ☁️ Salesforce (Admin Certified)  
-- 🛠️ Tools like Maven, Git, Jupyter 
-- 📊 Data Analysis with Pandas, NumPy, and Matplotlib  
-- 📚 Currently pursuing M.Tech in Artificial Intelligence & Machine Learning
+Currently, I’m pursuing my M.Tech in Artificial Intelligence & Machine Learning at BITS Pilani 🧑‍🎓, while continuously upskilling in Python, Data Science, and Machine Learning.
 
-Let's connect on LinkedIn - [@krishnaguntur](https://www.linkedin.com/in/gvns-krishna-prasad-001818158/)
+🎯 What I’m Working On Right Now
 
----
+📊 Data Analysis with Python → Building strong foundations in NumPy, Pandas, Matplotlib & Seaborn (and all that's relevant)
 
-## 🛠️ Tech Stack
+🧠 M.Tech → Deep dive into AI, ML, and Mathematical foundations
 
-```yaml
-Languages: Python, Java, SQL, Apex, JavaScript
-Frameworks: LWC
-Cloud/CRM Certs: Salesforce, AWS, Azure Fundamentals
-Tools: Git, Maven, Jupyter, SOAP UI
-Databases: Oracle, MySQL
-# 👋 Welcome to My GitHub Profile
+☁️ Cloud & Salesforce → Certified in AWS (Cloud Practitioner, Developer Associate), Azure Fundamentals, Salesforce Admin/Platform Developer 1
 
-I'm a Software Engineer with experience in:
+💼 Application Developer @ IBM → Handling Java apps, Oracle DB, SQL, and application deployments in real-world enterprise systems
 
-- 🔧 Production Support and Application Maintenance  
-- 💻 Java, Python, and SQL  
-- ☁️ Salesforce (Admin Certified)  
-- 🛠️ Tools like Maven, Git, Jupyter 
-- 📊 Data Analysis with Pandas, NumPy, and Matplotlib  
-- 📚 Currently pursuing M.Tech in Artificial Intelligence & Machine Learning
+🛠️ Skills & Tools
 
-Let's connect on LinkedIn - [@krishnaguntur](https://www.linkedin.com/in/gvns-krishna-prasad-001818158/)
+Programming → Python, Java, SQL, JavaScript with LWC, Apex
 
----
+Data Analysis & ML → NumPy, Pandas, Matplotlib, Seaborn (learning scikit-learn next)
 
-## 🛠️ Tech Stack
+Cloud Platforms → AWS ☁️, Azure ☁️, GCP ☁️
 
-```yaml
-Languages: Python, Java, SQL, Apex, JavaScript
-Frameworks: LWC
-Cloud/CRM Certs: Salesforce, AWS, Azure Fundamentals
-Tools: Git, Maven, Jupyter, SOAP UI
-Databases: Oracle, MySQL
+Databases → Oracle, MySQL
+
+Other → Salesforce
+
+🚀 Goals for 2025
+
+✅ Build a strong Python data stack foundation
+
+✅ Work on hands-on ML projects (EDA, prediction models, anomaly detection, etc.)
+
+🎓 Complete M.Tech (AI & ML) coursework with projects
+
+🏆 Transition into a Data/AI/ML role 
+
+📖 Maintain a living knowledge repo here on GitHub documenting my learning journey
+
+
+
+📌 What’s Next
+
+Build ML models with scikit-learn
+
+Work on end-to-end EDA + ML projects
+
+Explore Deep Learning (PyTorch/TensorFlow) as part of M.Tech journey
+
+Share projects, code, and insights here on GitHub
+
+✨ This page is not just a repo, it’s my growth log. Stick around — more exciting things are coming as I learn, build, and share my journey into Data & AI!
