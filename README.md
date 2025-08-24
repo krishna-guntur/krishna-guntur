@@ -14,19 +14,19 @@ Currently, I’m pursuing my M.Tech in Artificial Intelligence & Machine Learnin
 
 ☁️ Cloud & Salesforce → Certified in AWS (Cloud Practitioner, Developer Associate), Azure Fundamentals, Salesforce Admin/Platform Developer 1
 
-💼 Application Developer @ IBM → Handling Java apps, Oracle DB, SQL, and application deployments in real-world enterprise systems
+💼 Application Developer @ IBM → Handling Java/Spring Boot apps, Oracle DB, SQL, and application deployments in real-world enterprise systems
 
 🛠️ Skills & Tools
 
     Programming → Python, Java, SQL, JavaScript with LWC, Apex
 
-    Data Analysis & ML → NumPy, Pandas, Matplotlib, Seaborn (learning scikit-learn next)
+    Data Analysis & ML → NumPy, Pandas, Matplotlib, Seaborn
 
     Cloud Platforms → AWS ☁️, Azure ☁️, GCP ☁️
 
     Databases → Oracle, MySQL
 
-    Other → Salesforce
+    Other → Salesforce, Maconomy ERP
 
 🚀 Goals for 2025
 
